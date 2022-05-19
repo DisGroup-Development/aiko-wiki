@@ -2,7 +2,7 @@
 title: Haftungsausschluss
 description: 
 published: 1
-date: 2022-05-19T18:51:41.502Z
+date: 2022-05-19T19:03:58.494Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:51:41.502Z
@@ -25,11 +25,14 @@ Der Autor erklärt hiermit ausdrücklich, dass zum Zeitpunkt der Linksetzung kei
 Der Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen.
 Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!
 Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.
+<br>
 
 ## 4. Datenschutz
 Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Email-Adressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller angebotenen Dienste ist – soweit technisch möglich und zumutbar – auch ohne Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet. Die Nutzung der im Rahmen des Impressums oder vergleichbarer Angaben veröffentlichten Kontaktdaten wie Postanschriften, Telefon- und Faxnummern sowie Emailadressen durch Dritte zur Übersendung von nicht ausdrücklich angeforderten Informationen ist nicht gestattet. Rechtliche Schritte gegen die Versender von sogenannten Spam-Mails bei Verstössen gegen dieses Verbot sind ausdrücklich vorbehalten.
+<br>
 
 ## 5. Rechtswirksamkeit dieses Haftungsausschlusses
 Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
-<p title="Haftungsausschluss Vorlage">Quelle: <a href="http://www.haftungsausschluss.org/haftungsausschluss/">Haftungsausschluss</a> von <a title="Haftungsausschluss" href="http://www.haftungsausschluss-vorlage.de">haftungsausschluss-vorlage.de</a></p>
-<p>
+
+> Quelle: [Haftungsausschluss](http://www.haftungsausschluss.org/haftungsausschluss/) von [haftungsausschluss-vorlage.de](http://www.haftungsausschluss-vorlage.de)
+{.is-info}
