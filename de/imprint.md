@@ -2,13 +2,13 @@
 title: Impressum
 description: 
 published: 1
-date: 2022-05-19T18:31:22.084Z
+date: 2022-05-19T18:31:38.966Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:31:22.084Z
 ---
 
-# Impressum
+# 📄 Impressum
 
 > Angaben gemäß § 5 Telemediengesetz (TMG)
 {.is-info}
