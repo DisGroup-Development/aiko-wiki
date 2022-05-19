@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2022-05-19T10:42:04.759Z
+date: 2022-05-19T12:34:57.477Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T18:50:02.234Z
@@ -85,3 +85,7 @@ If you want to get notifications, join our [discord](https://discord.gg/xRveKFVU
 
 > Errors and very important things are shown in these red boxes.
 {.is-danger}
+
+---
+
+***Made with 💙 by DisGroup Development***
