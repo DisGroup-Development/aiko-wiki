@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2022-05-19T10:36:14.174Z
+date: 2022-05-19T10:42:04.759Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T18:50:02.234Z
@@ -66,6 +66,12 @@ Aiko is a multilingual bot.
 If you find any spelling mistakes or missing translations, please report them [here](https://disgroupdev.atlassian.net/servicedesk/customer/portal/1/group/2/create/13).
 
 To add your language, join our [crowdin project](https://crowdin.com/project/aiko).
+
+## ♻️ Updates
+
+To see the latest changes view the [changelog](/en/changelog).
+
+If you want to get notifications, join our [discord](https://discord.gg/xRveKFVUuG) and follow the announcement channel.
 
 ---
 
