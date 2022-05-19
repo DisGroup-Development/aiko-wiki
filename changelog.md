@@ -2,13 +2,14 @@
 title: Changelog
 description: 
 published: 1
-date: 2022-05-19T13:33:32.438Z
+date: 2022-05-19T13:33:43.269Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T13:33:32.438Z
 ---
 
 # ⚙️ Changelog
+
 Here is the changelog with every update of Aiko.
 
 ---
